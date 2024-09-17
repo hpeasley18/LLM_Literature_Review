@@ -82,8 +82,8 @@ In summary, a closer integration between lexical and syntactic analysis could le
 
 Here are some resources for further reading on parsing techniques:
 
-1. [Parsing Errors](https://hypertextbookshop.com/transPL/Contents/01_Topics/03_Parsing/06_Section_6/01_Page_1_-_Parser_Error_Handling.html)
-2. [Compilers: Principles, Techniques, and Tools](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools)
-3. [Types of Parsing Techniques](https://bgibhopal.com/what-are-the-common-types-of-parsing-techniques-used-in-compiler-design/)
+1. [Parsing Errors](https://www.sciencedirect.com/science/article/pii/S0167642316301046)
+2. [Compilers: Principles, Techniques, and Tools](https://elib.vku.udn.vn/bitstream/123456789/2542/1/2007.%20Compilers-Principles%2C%20Techniques%2C%20and%20Tools%20%282nd%20Edition%29.pdf)
+3. [Types of Parsing Techniques](https://brill.com/display/title/30057#page=105)
 
 These references provide additional insights into the parsing techniques, error handling, and recovery strategies in modern compilers.
